@@ -11,4 +11,6 @@ Para testar o projeto você precisa ter instalado o Visual Studio Code e o NodeJ
 [Visual Studio Code](https://code.visualstudio.com/)<br>
 [NodeJS](https://nodejs.org/en/download/)
 
+Após abrir a pasta do projeto no VSCode, abra o terminal e digite *npm start*. 
+
 Obs.: O editor de textos acima é uma sugestão, pois foi o mesmo utilizado para criação do projeto. 
