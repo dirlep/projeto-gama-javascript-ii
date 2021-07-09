@@ -3,6 +3,7 @@
 O projeto consiste em uma biblioteca de livros na qual o usuário pode escolher buscar por categorias ou listar todos os livros ordenados pela quantidade de páginas.
 Criado como projeto final no módulo de JavaScript II do curso Hiring Coders, feito em JavaScript. 
 
+<img src="https://github.com/dirlep/projeto-gama-javascript-ii/blob/main/image.PNG"/>
 ---
 
 ## Como Rodar 
